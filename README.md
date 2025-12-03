@@ -33,17 +33,6 @@ Our approach consists of three specialized agents working in synergy:
 
 ## 🏆 Performance on Benchmarks
 
-We achieve state-of-the-art performance on challenging multimodal video reasoning tasks.
-这个表格非常棒，数据很有说服力：用更小的参数量（2B）实现了全面的领先。
-
-为了把它完美地融入 GitHub 的 README.md，我帮你把 LaTeX 代码转换成了 Markdown 格式。我去掉了 LaTeX 特有的引用符号（\cite），并保留了你的粗体强调，让读者一眼就能看到 Ours 的优势。
-
-您可以直接复制下面的代码替换原来的 Performance on Benchmarks 部分：
-
-Markdown
-
-## 🏆 Performance on Benchmarks
-
 We compare our method with state-of-the-art models across four challenging benchmarks. Despite having fewer parameters (**2B**), our framework achieves the best performance across all metrics.
 
 | Method | Size | Acc@MME | Acc@QA | Acc@MVB | Acc@MLVU |
