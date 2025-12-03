@@ -57,6 +57,6 @@ We compare our method with state-of-the-art models across four challenging bench
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/hanzif1/videoRAG.git](https://github.com/hanzif1/videoRAG.git)
+git clone https://github.com/hanzif1/videoRAG.git
 cd videoRAG
 ```
